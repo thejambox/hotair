@@ -1,0 +1,13 @@
+Project License:
+
+CC-BY 3.0: http://creativecommons.org/licenses/by/3.0/us/
+
+You are free to use the included assets for whatever you would like, but we ask that you provide attribution if you do so.
+
+Licenses for included software is as follows: 
+
+jsonFX: https://bitbucket.org/TowerOfBricks/jsonfx-for-unity3d/src/866e6402be1533c16115f2be31b1048d53fb0c43/JsonFx/JsonFx.Json/License.txt?at=default
+
+fonts: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+quotes: https://github.com/btford/philosobot/blob/master/LICENSE
